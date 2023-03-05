@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/123172291/222991865-cd3b5196-6fd6-4523
 
 ----
 
-$$\Huge https://_{crates.io}/^{crates/ethers}$$
+$$\huge https://_{crates.io}/^{crates/ethers}$$
 
 ---
 1. [Baa ?](#baa-)
